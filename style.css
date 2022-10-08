@@ -1,0 +1,23 @@
+body{
+    background:linear-gradient(#b5ff00 0%,#ee00ff 100%);
+    color: black;
+
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border:2px dashed slateblue;
+
+}
+
+.name_of_objects{
+    color:rebeccapurple;
+
+}
